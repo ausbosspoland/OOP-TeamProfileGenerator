@@ -70,7 +70,7 @@ function generateHTML(employees) {
       </head>
     <body>
         <div class="container-fluid bg-success bg-gradient text-white">
-            <h1 class="container-fluid ">Ian Hennessey Organization  <i class="bi bi-diagram-3"></i></h1>
+            <h1 class="container-fluid ">Austin Oz Corp Corporation  <i class="bi bi-diagram-3"></i></h1>
         </div>
         <div class="container-fluid">
     
